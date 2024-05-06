@@ -1,0 +1,64 @@
+/* styling the scrollbar  */
+::-webkit-scrollbar {
+    width: 5px;
+    background-color: transparent;
+}
+ 
+/* styling the scrollbar */
+::-webkit-scrollbar-thumb {
+    background: #676768; 
+    border-radius: 10px;
+    height: 10px;
+}
+
+/* main container for the page */
+#mainContainer{
+    height: 92%;
+    background-color: #FDE5EC;
+}
+
+/*  */
+#addHabitContainer{
+    height: 15%;
+    background-color: #00E0F0;
+}
+
+#addHabitContainer span{
+    color: #FFBBC5;
+}
+
+/* list of habits on the home page  */
+#habitList{
+    height: 80%;
+    background-color: #FFCFFB;
+}
+
+/* heading for habit list on the homepage */
+#habitList h1{
+    color:#0F61C0;
+}
+
+
+/* section of a single habit on Details page */
+.list-item{
+    background-color: #0084E8;
+}
+
+/* button for adding new habits on homepage */
+.add-btn{
+    background-color: #00BBC5;
+    color:white;
+}
+
+/* hovering style over the add habit button */
+.add-btn:hover{
+    border: 2px solid #00BBFF;
+    color: #00BBC5;
+    font-weight: 700;
+}
+
+/* card to show a single day habit status */
+.day-card{
+    background-color: #00ffe1;
+    color:#322653;
+}
