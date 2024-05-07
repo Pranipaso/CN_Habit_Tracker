@@ -2,6 +2,8 @@
 
 This is a habit tracker project of Coding Ninjas made using Nodejs, Express, MongoDB, EJS. User can add multiple habits to their list, and can check their weekly status of habit (done, not done, pending).
 
+- The Project has been hosted on : https://cn-habit-tracker.onrender.com
+
 # Installation and Run
 
 Follow these steps:
